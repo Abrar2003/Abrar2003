@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **+91 8302119329**
 
-- 📄 Know about my experiences [https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf](https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf)
+- 📄 Know about my experiences [https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar2003&show_icons=true&theme=dark&locale=en&layout=compact" alt="abrar2003" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar2003&show_icons=true&locale=en" alt="abrar2003" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar2003&show_icons=true&locale=en" alt="abrar2003" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2003&" alt="abrar2003" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2003&" alt="abrar2003" /></p>
