@@ -1,3 +1,4 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abrar Aalam</h1>
 <h3 align="center">A passionate full-stack developer. I am passionate about building digital products that improve everyday experience for people. I am Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" />
