@@ -34,5 +34,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abrar2003&show_icons=true&locale=en" alt="abrar2003" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2003&" alt="abrar2003" /></p>
-![Profile views](https://gpvc.arturio.dev/Abrar2003)
-![](./profile-3d-contrib/profile-night-green.svg)
