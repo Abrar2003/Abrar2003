@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 
-- 👨‍💻 All of my projects are available at [Abrar Aalam | Portfolio](abrar2003.github.io)
+- 👨‍💻 All of my projects are available at [abrar2003.github.io](abrar2003.github.io)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **+91 8302119329**
 
-- 📄 Know about my experiences [https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf](https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
