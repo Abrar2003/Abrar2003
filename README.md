@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer. I am passionate about building digital products that improve everyday experience for people. I am Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 
-<p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="abrar2003" /> </p>
+<p align="right"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="abrar2003" /> </p>
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 
