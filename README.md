@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer. I am passionate about building digital products that improve everyday experience for people. I am Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif" />
 
-<!-- <p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="abrar2003" /> </p> -->
+![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)
 
 - 🌱 I’m currently learning **React, MongoDB, Nodejs, express**
 
@@ -35,4 +35,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2003&theme=dark" alt="abrar2003" /></p>
 
-<div align="center">![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)</div>
+
