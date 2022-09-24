@@ -35,4 +35,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar2003&theme=dark" alt="abrar2003" /></p>
 
-<p align="center">![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)</p>
+![Visitor Count](https://profile-counter.glitch.me/{Abrar2003}/count.svg)
