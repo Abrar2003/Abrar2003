@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **+91 8302119329**
 
-- 📄 Know about my experiences [Resume](https://github.com/Abrar2003/My-Portfolio/raw/main/Abrar_Aalam_resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Abrar2003/RESUME/raw/main/Abrar-Aalam-resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
